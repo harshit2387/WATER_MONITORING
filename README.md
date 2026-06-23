@@ -1,4 +1,4 @@
-# 🌱 Sensor Monitoring Project
+# 🌱 Sensor Monitoring 
 
 This project integrates multiple sensors with a microcontroller to monitor environmental and water quality parameters.  
 
